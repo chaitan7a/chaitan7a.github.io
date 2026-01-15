@@ -1,0 +1,15 @@
+title: Chaitanya
+description: Personal website and portfolio
+url: "https://chaitan7a.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
