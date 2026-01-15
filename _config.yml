@@ -1,5 +1,5 @@
-title: Chaitanya
-description: Personal website and portfolio
+title: Chaitanya Khanorkar
+description: Product Manager @ Darwinbox | IIM Ahmedabad MBA | Product Analytics & AI
 url: "https://chaitan7a.github.io"
 baseurl: ""
 
@@ -11,5 +11,5 @@ theme: minima
 header_pages:
   - index.md
   - about.md
-  - projects.md
+  - experience.md
   - contact.md
